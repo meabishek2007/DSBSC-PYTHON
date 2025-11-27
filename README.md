@@ -60,7 +60,8 @@ Output Waveform
 
 Tabular Column
 
-![WhatsApp Image 2025-10-28 at 10 31 39_3b9c5c30](https://github.com/user-attachments/assets/bbbee460-e5a7-4cf9-93f1-3f6c4990e053)
+![WhatsApp Image 2025-11-27 at 19 07 18_45ab9b50](https://github.com/user-attachments/assets/f4b59a12-2ec0-4a18-90a7-8f4a527306ce)
+
 
 
 Result
